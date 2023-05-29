@@ -1,1 +1,1 @@
-Chạy các câu lệnh
+Chạy các câu lệnh `make build-rapidsnark` hoặc `DOCKER_BUILDKIT=1 docker build --file Dockerfile --output build .` để build các file rapidsnark
